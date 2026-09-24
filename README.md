@@ -7,6 +7,11 @@ The project grew out of a personal need; I really just wanted a simple agent cap
 ## how use 
 Clone the repository or copy the contents of agent.py 
 
+## download dependencies 
+```bash
+pip install -r requirements.txt
+```
+
 ### export scope variables
 ```.env
 export AGENT_API_KEY="your_groq_api_key"
